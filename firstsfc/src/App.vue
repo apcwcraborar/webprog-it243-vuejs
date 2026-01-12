@@ -6,7 +6,7 @@
 export default {
   data() {
     return {
-      message: 'oya oya'
+      message: 'the optimist sees the donut, the pessimist sees the hole.'
     };
   }
 };
