@@ -106,11 +106,6 @@
       <h3>Faster N Harder (Instrumental)</h3>
       <h4>6arelyhuman</h4>
     </div>
-
-    <audio audio controls autoplay loop>
-      <source src="Sassy Scene - Faster n Harder (Instrumental).mp3" type="audio/mpeg">
-      Your browser does not support audio.
-    </audio>
   </div>
 </div>
 </template>
