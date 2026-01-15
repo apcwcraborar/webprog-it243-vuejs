@@ -1,5 +1,5 @@
 <template>
-  <div class="apple">
+  <div class="mango">
     <h2>{{ name }}</h2>
     <p>{{ message }}</p>
   </div>
@@ -9,19 +9,19 @@
 export default {
   data() {
     return {
-      name: 'Apples',
-      message: 'I like apples'
+      name: 'Mango',
+      message: 'I like Mangoes'
     }
   }
 };
 </script>
 
 <style>
-  .apple {
+  .mango {
     border: dashed rgb(16, 16, 44) 1px;
     display: inline-block;
     margin: 10px;
     padding: 10px;
-    background-color: rgb(144, 146, 238);
+    background-color: rgb(237, 225, 135);
   }
 </style>
