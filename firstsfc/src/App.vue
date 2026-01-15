@@ -1,15 +1,11 @@
 <template>
-  <h1>{{ message }}</h1>
+  <h1>Food</h1>
+  <food-item/>
+  <food-item/>
+  <food-item/>
 </template>
 
-<script>
-export default {
-  data() {
-    return {
-      message: 'the optimist sees the donut, the pessimist sees the hole.'
-    };
-  }
-};
-</script>
+<script></script>
 
 <style></style>
+
