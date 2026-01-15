@@ -42,7 +42,7 @@ h2,h3 {
   color: #fa1e9e;
 }
 
-.profile-img img {
+.profile-img image {
   width: 100%;
   border: 3px solid #fa1e9e;
   padding: 5px;
@@ -184,7 +184,7 @@ a:active {
   text-align: center;
 }
 
-.music-img img {
+.music-img image {
   width: 100%;
   border: 3px solid #fa1e9e;
   border-radius: 10px;
@@ -238,6 +238,8 @@ audio {
   box-shadow: 0 4px 12px rgba(255, 16, 107, 0.4);
 }
 
+
+
 @media (max-width: 768px) {
   .container {
     grid-template-columns: 1fr;
@@ -257,7 +259,7 @@ audio {
     padding: 10px;
   }
 
-  img,
+  image,
   audio {
     width: 100%;
   }
